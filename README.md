@@ -20,6 +20,4 @@ I enjoy working with data, finding patterns, and turning numbers into insights t
 
 ---
 
-> *Learning, building, and making sense of data — one dataset at a time.*
-
 📍 Dublin, Ireland
